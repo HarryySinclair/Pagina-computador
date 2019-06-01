@@ -1,0 +1,8 @@
+
+div[class*="columna"]{
+  height: 50rem;
+  border: 1px solid #eceff1;
+}
+div[class*="bloque"]{
+    height: 25rem;
+}
